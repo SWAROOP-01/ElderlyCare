@@ -7,8 +7,9 @@
     <string name="appname">Elderly Care and Fall Detection</string>
     <string name="passval">Enter Password</string>
     <string name="signin">Sign In</string>
-    <string name="donthaveaccount">Don\'t have a account ? Register here !</string>
+    <string name="donthaveaccount">Dont have a account ? Register here !</string>
     <string name="fullname">Enter Your full Name</string>
     <string name="phoneno">Enter your Phone Number</string>
     <string name="haveaccount">Already Registered? Sign In</string>
+    <string name="loginmssg">You Have logged In Successfully</string>
 </resources>
