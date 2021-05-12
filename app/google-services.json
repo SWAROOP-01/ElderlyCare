@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297394442392",
+    "project_id": "fyp-group-5",
+    "storage_bucket": "fyp-group-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297394442392:android:c0acf2a40a5ce8978540ed",
+        "android_client_info": {
+          "package_name": "com.example.elderlycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297394442392-2165pkogjhonj60psib702qv2jk3erh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDp5TFmQSl4_NkeY1v3In3hBpCks3_Eu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297394442392-2165pkogjhonj60psib702qv2jk3erh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
